@@ -261,3 +261,8 @@ If the manpages and this book aren’t enough and you need in-person help, you c
 ## Summary ##
 
 You should have a basic understanding of what Git is and how it’s different from the CVCS you may have been using. You should also now have a working version of Git on your system that’s set up with your personal identity. It’s now time to learn some Git basics.
+## Ayo Addition ##
+
+These words are mine. They have nothing to do with the topic on this
+page. I have gone ahead to use the auto-fill-mode incantation on the
+contents of this buffer, only to save it to disk again ...
